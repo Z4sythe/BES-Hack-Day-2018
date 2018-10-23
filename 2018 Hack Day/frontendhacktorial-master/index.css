@@ -1,0 +1,18 @@
+body {
+  background-color: red;
+}
+
+div {
+  background-color: green;
+  color: white;
+}
+
+#first {
+  color: yellow;
+  border-width: medium;
+  border-color: orange;
+}
+
+#first:hover {
+  background-color: white;
+}
