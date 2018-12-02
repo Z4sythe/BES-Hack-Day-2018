@@ -1,3 +1,2 @@
 # Hack-Day
-
-This is what I made for the hack day
+This is what my team made for the Black Engineers Society Hack Day on October 20th, 2018.
